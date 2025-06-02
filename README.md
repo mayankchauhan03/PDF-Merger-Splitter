@@ -26,7 +26,7 @@ A simple Python GUI app to merge multiple PDF files or split a single PDF into i
 1. Install Dependencies 
    ```bash
    pip install PyPDF2
-2. Run the app
+2. Run the app :
    python pdf_tool.py   
  
 
